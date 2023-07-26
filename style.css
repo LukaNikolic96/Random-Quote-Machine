@@ -1,0 +1,19 @@
+* {
+  transition: all 0.5s ease-in-out;
+}
+
+#quote-box {
+  display: block;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  padding-top: 15%;
+}
+#tweet-quote {
+margin-left: 15px;
+padding: 7px 13px;
+}
+#tumblr-quote {
+  margin-left: 15px;
+  padding: 7px 13px;
+  }
